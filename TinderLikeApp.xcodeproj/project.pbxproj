@@ -15,6 +15,8 @@
 		31B4F69D25477A9E00BE2153 /* HomeController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 31B4F69C25477A9E00BE2153 /* HomeController.swift */; };
 		31B4F69F2547809400BE2153 /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 31B4F69E2547809400BE2153 /* Extensions.swift */; };
 		31B4F6A12547822300BE2153 /* HomeNavigationStackView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 31B4F6A02547822300BE2153 /* HomeNavigationStackView.swift */; };
+		31B4F6A32548C3C700BE2153 /* BottomControlsStackView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 31B4F6A22548C3C700BE2153 /* BottomControlsStackView.swift */; };
+		31B4F6A52548D97700BE2153 /* CardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 31B4F6A42548D97700BE2153 /* CardView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +30,8 @@
 		31B4F69C25477A9E00BE2153 /* HomeController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeController.swift; sourceTree = SOURCE_ROOT; };
 		31B4F69E2547809400BE2153 /* Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extensions.swift; sourceTree = "<group>"; };
 		31B4F6A02547822300BE2153 /* HomeNavigationStackView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeNavigationStackView.swift; sourceTree = "<group>"; };
+		31B4F6A22548C3C700BE2153 /* BottomControlsStackView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BottomControlsStackView.swift; sourceTree = "<group>"; };
+		31B4F6A42548D97700BE2153 /* CardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -94,6 +98,8 @@
 			isa = PBXGroup;
 			children = (
 				31B4F6A02547822300BE2153 /* HomeNavigationStackView.swift */,
+				31B4F6A22548C3C700BE2153 /* BottomControlsStackView.swift */,
+				31B4F6A42548D97700BE2153 /* CardView.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -192,6 +198,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				31B4F6A52548D97700BE2153 /* CardView.swift in Sources */,
+				31B4F6A32548C3C700BE2153 /* BottomControlsStackView.swift in Sources */,
 				31B4F67F25473CFB00BE2153 /* AppDelegate.swift in Sources */,
 				31B4F68125473CFB00BE2153 /* SceneDelegate.swift in Sources */,
 				31B4F6A12547822300BE2153 /* HomeNavigationStackView.swift in Sources */,
